@@ -1,5 +1,5 @@
 import numpy as np
-np.random.seed(8) #experiment with different seeds 
+np.random.seed(80) #experiment with different seeds 
 from matplotlib import pyplot as plt
 from numpy.random import normal
 from numpy import hstack
